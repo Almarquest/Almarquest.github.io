@@ -3,7 +3,7 @@
 }
 
 .footer-container {
-  padding: 120px 20px 60px 20px;
+  padding: 80px 20px 40px 20px;
   grid-template-columns: 1fr 1fr;
   align-items: center;
 }
@@ -11,12 +11,12 @@
 .footer-texto {
   font-size: 1.5rem;
   line-height: 1.33;
-  color: #fceedd;
+  color: #b0d7ea;
 }
 
 .footer-contato li {
   font-weight: bold;
-  font-size: 2.25rem;
+  font-size: 1.5rem;
   line-height: 1.1;
   color: #ffffff;
   margin-bottom: 30px;
@@ -28,7 +28,7 @@
 .footer-copy {
   grid-column: 1 / -1;
   font-size: 1.125rem;
-  color: #8f8476;
+  color: #b0d7ea;
 }
 
 @media (max-width: 800px) {

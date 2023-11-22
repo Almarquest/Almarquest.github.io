@@ -1,6 +1,6 @@
 .experiencia .subtitulo {
   background: #ffffff;
-  color: #dcd0c3;
+  color: #b0d7ea;
 }
 
 .experiencia-texto {
@@ -20,7 +20,7 @@
   grid-template-columns: 1fr 1fr;
   gap: 10px 20px;
   padding: 20px;
-  background: #f2eae2;
+  background: #b0d7ea;
   margin-bottom: 20px;
   border-radius: 4px;
   position: relative;
@@ -31,11 +31,12 @@
   display: block;
   width: 4px;
   height: 20px;
-  background: linear-gradient(#be9e50, #603a12);
+  background: linear-gradient(#068da8, #023151);
   position: absolute;
   top: 20px;
   left: -4px;
 }
+/* 024d5a 046a9a b0d7ea */
 
 .empresa-ano {
   position: absolute;

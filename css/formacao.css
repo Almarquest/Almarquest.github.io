@@ -1,10 +1,10 @@
 .formacao {
-  background: #231401;
+  background: #046a9a;
   color: #ffffff;
 }
 
 .formacao-container {
-  padding: 120px 20px;
+  padding: 80px 20px;
   position: relative;
 }
 
@@ -45,7 +45,7 @@
 
 .faculdade {
   flex: 1;
-  background: #120a00;
+  background: #023151;
   padding: 20px;
   border-radius: 4px;
   display: flex;
@@ -72,7 +72,7 @@
   display: block;
   width: 4px;
   height: 20px;
-  background: linear-gradient(#be9e50, #603a12);
+  background: linear-gradient(#068da8, #023151);
   position: absolute;
   left: -24px;
 }
@@ -89,7 +89,7 @@
 .formacao-extra h3 {
   font-size: 0.875rem;
   line-height: 1.4;
-  color: #8f8f8f;
+  color: #b0d7ea;
   text-transform: uppercase;
   margin-bottom: 30px;
   position: relative;
@@ -120,7 +120,7 @@
 }
 
 .formacao-extra span {
-  color: #8f8f8f;
+  color: #b0d7ea;
 }
 
 .cursos li {
